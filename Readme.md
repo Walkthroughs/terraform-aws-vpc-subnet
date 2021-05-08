@@ -27,4 +27,5 @@ terraform apply
 terraform destroy
 ```
 
-Detailed instructions are available here (walkthrough)[]
+Detailed instructions are available here [walkthrough](https://www.walkthrough.so/pblc/pHjklthzWFvI/how-to-create-a-vpc-subnet-and-networking-setup-in-aws-using-terraform)
+
