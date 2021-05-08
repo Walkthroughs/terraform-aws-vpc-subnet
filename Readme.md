@@ -9,6 +9,9 @@ This script creates
 
 ![Blank diagram](https://user-images.githubusercontent.com/2060769/117240934-8f043880-ae4f-11eb-8b08-de0472bb130f.jpeg)
 
+## Instructions and explanation
+Detailed instructions are available here [walkthrough](https://www.walkthrough.so/pblc/pHjklthzWFvI/how-to-create-a-vpc-subnet-and-networking-setup-in-aws-using-terraform)
+
 ## How to use it ?
 1. Setup variables like project name, region name, availability zones, CIDR etc  correctly in terraform.tfvars file.
 2. Setup your terraform credential using 
@@ -26,6 +29,5 @@ terraform apply
 terraform destroy
 ```
 
-## Instructions and explanation
-Detailed instructions are available here [walkthrough](https://www.walkthrough.so/pblc/pHjklthzWFvI/how-to-create-a-vpc-subnet-and-networking-setup-in-aws-using-terraform)
+
 
